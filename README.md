@@ -7,4 +7,4 @@
 
 Due to limit of time not all standard and structure was studied
 
-Developed by Valerio Tanferna
+Developed by Valerio Tanferna, Alessandro Martinelli
